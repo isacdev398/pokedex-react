@@ -1,4 +1,4 @@
-// Joao Ricardo
+// Ana Clara
 import { useRef, useState, type FormEvent } from 'react';
 
 interface LoginFormProps {

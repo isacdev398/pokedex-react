@@ -1,8 +1,7 @@
 const integrantes = [
   { nome: 'Giordana Livia De Jesus Azevedo', matricula: '01798431', componentes: 'Navbar e Footer' },
   { nome: 'Isaac Rocha Sampaio', matricula: '01786071', componentes: 'PokemonCard e PokemonList' },
-  { nome: 'Ana Clara Monteiro', matricula: '01771219', componentes: 'SearchBar e Filtros' },
-  { nome: 'João Ricardo Braga Freitas', matricula: '01818117', componentes: 'LoginForm e ProtectedRoute' },
+  { nome: 'Ana Clara Monteiro', matricula: '01771219', componentes: 'SearchBar, Filtros, LoginForm e ProtectedRoute' },
   { nome: 'Éricka Mara De Oliveira Silva', matricula: '01808076', componentes: 'GraficoStatus e ContactForm' },
 ];
 

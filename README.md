@@ -10,8 +10,7 @@ Projeto da AV2 da disciplina de Front-end Frameworks (Ciência da Computação),
 |---|---|---|
 | Giordana Livia De Jesus Azevedo | 01798431 | Navbar, Footer |
 | Isaac Rocha Sampaio | 01786071 | PokemonCard, PokemonList |
-| Ana Clara Monteiro | 01771219 | SearchBar, Filtros |
-| João Ricardo Braga Freitas | 01818117 | LoginForm, ProtectedRoute |
+| Ana Clara Monteiro | 01771219 | SearchBar, Filtros, LoginForm, ProtectedRoute |
 | Éricka Mara De Oliveira Silva | 01808076 | GraficoStatus, ContactForm |
 
 Os componentes ficam na pasta `src/components`.
